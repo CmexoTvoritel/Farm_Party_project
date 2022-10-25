@@ -1,0 +1,3 @@
+C:\Users\CmexoTvoritel\source\repos\Farm_party_testing\Farm_party_testing\Debug\Farm_party_testing.vcxproj.AssemblyReference.cache
+C:\Users\CmexoTvoritel\source\repos\Farm_party_testing\Farm_party_testing\Debug\Farm_party_testing.Form1.resources
+C:\Users\CmexoTvoritel\source\repos\Farm_party_testing\Farm_party_testing\Debug\Farm_party_testing.vcxproj.GenerateResource.cache
