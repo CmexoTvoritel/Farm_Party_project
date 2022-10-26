@@ -1,0 +1,3 @@
+C:\Program Files\Farm_Party_project\Farm_party_testing\x64\Debug\Farm_party_testing.vcxproj.AssemblyReference.cache
+C:\Program Files\Farm_Party_project\Farm_party_testing\x64\Debug\Farm_party_testing.Form1.resources
+C:\Program Files\Farm_Party_project\Farm_party_testing\x64\Debug\Farm_party_testing.vcxproj.GenerateResource.cache
